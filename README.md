@@ -15,10 +15,10 @@
 - Home Page
 ![HomePage Screenshot](HomePage.png)
 
-- Profile Page
+- Login Page
 ![LoginPage Screenshot](LoginPage.png)
 
-- Chatting Page
+- Generate Page
 ![GeneratePage Screenshot](GeneratePage.png)
 
 ---
