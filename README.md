@@ -21,6 +21,9 @@
 - Generate Page
 ![GeneratePage Screenshot](GeneratePage.png)
 
+- Payment Page
+![Payment Screenshot](PaymentPage.png)
+
 ---
 
 ## 🛠️ Tech Stack
