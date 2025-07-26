@@ -1,6 +1,6 @@
 # 🎨 Dream Pixels
 
-**Dream Pixels** is a full-stack AI-powered image generation platform where users can create, view, and manage their generated images. It combines powerful backend logic with a sleek frontend, offering a modern and responsive UI.
+**Dream Pixels** is a full-stack, AI-powered image generation platform where users can seamlessly create, view, and manage their generated images. It features a modern, responsive UI and robust backend logic to ensure a smooth user experience. With the integration of the ClipDrop API, Dream Pixels now leverages advanced image processing capabilities, enabling users to generate high-quality visuals using state-of-the-art AI models.
 
 ---
 
@@ -42,6 +42,7 @@
 - **Razorpay** – Payment integration for credit purchase
 - **dotenv** – Environment variable configuration
 - **CORS** – Cross-origin request handling
+- **ClipDrop API** – AI-powered image generation and enhancement
 
 ---
 
@@ -83,6 +84,7 @@ MONGODB_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_SECRET=your_razorpay_secret
+CLIPDROP_API=your_clipdrop_api
 
 ```
 
